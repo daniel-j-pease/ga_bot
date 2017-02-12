@@ -6,7 +6,7 @@ var bot_flavor = {
   "empty_queue": "It seems that no one is in need of our assistance."+" "+"https://media3.giphy.com/media/n7Kv7tLf2UzMk/200_s.gif",
   "attendance_cleared": "Attendance cleared",
   "attendance_zero": "It seems that no one is in need of our assistance.",
-  "greeting": "Hello, I am C-3PO, human-cyborg relations. How might I serve you?"
+  "greeting": "Hello, I am C-3PO, human-cyborg relations. How might I serve you?",
   "shuffle": "who's next, i don't know",
   "queue_cleared": "Where could they be?",
   "quotes": [
