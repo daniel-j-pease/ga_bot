@@ -111,6 +111,7 @@ CustomBot.prototype.respond = function(message){
       break;
     case "queue me":
     case 'q me':
+    case 'que me':
       this.bot.sendMessage(this.channel, "If you're going to queue, it's best to come with a question");
       break;
     case "dark side":
